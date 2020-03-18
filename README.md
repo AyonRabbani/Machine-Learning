@@ -1,5 +1,5 @@
 # Deep Learning
-Collection of my exercises in Reinforcement Learning
+Collection of my exercises in Deep Learning
 
 Table of Contents
 1. DQN - Implementation of Deep Q Network that plays OpenAI's cart pole
