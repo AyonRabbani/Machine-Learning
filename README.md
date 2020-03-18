@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# Deep Learning
 Collection of my exercises in Reinforcement Learning
 
 Table of Contents
